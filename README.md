@@ -2,7 +2,7 @@
 
 A weekly check-in and coordination system built for a youth mentorship program, where 10 mentors run weekly sessions for approximately 40 high school students across multiple grade cohorts.
 
-**Live demo:** [deployed Streamlit link]
+**Live demo:** https://mentor-tracker-nnrq6xh78aqk2u9ejxzbro.streamlit.app/
 *(The live demo runs on a separate Airtable base with fictional data — no real student or mentor information is public.)*
 
 ---
