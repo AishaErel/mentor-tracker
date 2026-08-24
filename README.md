@@ -25,10 +25,11 @@ I built this system to solve that directly: a lightweight, structured, and priva
 
 ## Some Pictures
 <img width="1418" height="892" alt="Screenshot 2026-08-23 at 7 11 00 PM" src="https://github.com/user-attachments/assets/59e80bdc-5e3a-45d8-a47f-23a02e2a5265" />
-<img width="1186" height="832" alt="Screenshot 2026-08-23 at 7 15 15 PM" src="https://github.com/user-attachments/assets/7c0b06a7-0194-40af-9863-bdb90ca5785f" />
+<img width="1425" height="725" alt="Screenshot 2026-08-23 at 7 13 24 PM" src="https://github.com/user-attachments/assets/ac834f78-bb09-42e5-8fa3-0b55450b76ed" />
 <img width="1440" height="832" alt="Screenshot 2026-08-23 at 7 13 41 PM" src="https://github.com/user-attachments/assets/35090c6f-056f-4092-9b7e-7f3ef180c669" />
 <img width="1440" height="748" alt="Screenshot 2026-08-23 at 7 13 59 PM" src="https://github.com/user-attachments/assets/84a977cf-1754-45ad-8541-1be4a0b1be60" />
-<img width="1425" height="725" alt="Screenshot 2026-08-23 at 7 13 24 PM" src="https://github.com/user-attachments/assets/ac834f78-bb09-42e5-8fa3-0b55450b76ed" />
+<img width="1186" height="832" alt="Screenshot 2026-08-23 at 7 15 15 PM" src="https://github.com/user-attachments/assets/7c0b06a7-0194-40af-9863-bdb90ca5785f" />
+
 
 
 
