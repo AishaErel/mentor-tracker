@@ -87,4 +87,4 @@ This project is designed so a public deployment never touches real user data:
 
 ## This is a work in progress..
 
-This is still a work in progress, which I am planning to be updating and imroving regularly. 
+This is still a work in progress, which I am planning to be updating and improving regularly. 
