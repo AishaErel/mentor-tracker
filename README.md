@@ -30,6 +30,11 @@ I built this system to solve that directly: a lightweight, structured, and priva
 - **AI:** Anthropic's Claude API (Claude Haiku for lightweight concern detection, Claude Sonnet for weekly summary generation)
 - **Auth:** lightweight password gate for the coordinator view; group + nickname flow for students (no account system needed at this scale)
 
+## Some Pictures<img width="1367" height="845" alt="Screenshot 2026-08-23 at 5 54 04 PM" src="https://github.com/user-attachments/assets/ef833267-6903-4770-9a60-6b3c28affc38" />
+<img width="1440" height="765" alt="Screenshot 2026-08-23 at 5 17 07 PM" src="https://github.com/user-attachments/assets/064e8c2d-196d-4ed5-9c0c-2344f2459516" />
+<img width="1336" height="645" alt="Screenshot 2026-08-23 at 5 54 39 PM" src="https://github.com/user-attachments/assets/c2d9cd7d-df5d-4192-9be1-d5590c4e1edf" />
+
+
 ## Project structure
 
 ```
