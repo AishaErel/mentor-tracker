@@ -1,0 +1,13 @@
+AIRTABLE_TOKEN=your_demo_token_here
+AIRTABLE_BASE_ID=your_demo_base_id_here
+
+AIRTABLE_MENTORS_TABLE=Mentors
+AIRTABLE_CHECKINS_TABLE=Checkins_Mentors
+AIRTABLE_STUDENTS_TABLE=Students
+AIRTABLE_STUDENT_CHECKINS_TABLE=Checkins_Students
+AIRTABLE_CALENDAR_TABLE=EventCalendar
+AIRTABLE_RSVPS_TABLE=EventRSVPs
+
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+COORDINATOR_PASSWORD=choose_a_password_here
+COORDINATOR_NAME=Your Name

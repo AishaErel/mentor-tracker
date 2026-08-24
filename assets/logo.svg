@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280">
+  <defs>
+    <symbol id="sparkle" viewBox="0 0 20 20">
+      <path d="M10,0 C11,6 14,9 20,10 C14,11 11,14 10,20 C9,14 6,11 0,10 C6,9 9,6 10,0 Z"/>
+    </symbol>
+  </defs>
+
+  <use href="#sparkle" x="238" y="42" width="16" height="16" fill="#C7A552"/>
+  <use href="#sparkle" x="28" y="52" width="12" height="12" fill="#D8A7A0"/>
+  <use href="#sparkle" x="34" y="212" width="14" height="14" fill="#6B8F71"/>
+  <use href="#sparkle" x="232" y="220" width="11" height="11" fill="#C7A552"/>
+  <use href="#sparkle" x="144" y="12" width="10" height="10" fill="#D8A7A0"/>
+  <use href="#sparkle" x="20" y="140" width="9" height="9" fill="#C7A552"/>
+  <use href="#sparkle" x="252" y="140" width="9" height="9" fill="#6B8F71"/>
+  <use href="#sparkle" x="140" y="252" width="10" height="10" fill="#D8A7A0"/>
+
+  <circle cx="140" cy="140" r="108" fill="#FAF7F0" stroke="#6B8F71" stroke-width="4"/>
+
+  <line x1="140" y1="70" x2="140" y2="58" stroke="#C7A552" stroke-width="1.5"/>
+  <line x1="117" y1="80" x2="108" y2="72" stroke="#C7A552" stroke-width="1.5"/>
+  <line x1="163" y1="80" x2="172" y2="72" stroke="#C7A552" stroke-width="1.5"/>
+  <line x1="110" y1="100" x2="98" y2="100" stroke="#C7A552" stroke-width="1.5"/>
+  <line x1="170" y1="100" x2="182" y2="100" stroke="#C7A552" stroke-width="1.5"/>
+
+  <circle cx="140" cy="72" r="4" fill="none" stroke="#C7A552" stroke-width="2"/>
+  <path d="M130 76 L150 76 L146 84 L134 84 Z" fill="#C7A552"/>
+  <rect x="124" y="84" width="32" height="36" rx="6" fill="#C7A552"/>
+  <line x1="134" y1="88" x2="134" y2="116" stroke="#8A6D2E" stroke-width="1" opacity="0.5"/>
+  <line x1="140" y1="88" x2="140" y2="116" stroke="#8A6D2E" stroke-width="1" opacity="0.5"/>
+  <line x1="146" y1="88" x2="146" y2="116" stroke="#8A6D2E" stroke-width="1" opacity="0.5"/>
+  <rect x="130" y="120" width="20" height="6" rx="2" fill="#C7A552"/>
+
+  <path d="M92 160 C 115 149, 137 149, 140 160 C 143 149, 165 149, 188 160 L188 176 C165 167,143 167,140 176 C137 167,115 167,92 176 Z" fill="#D8A7A0"/>
+  <line x1="140" y1="160" x2="140" y2="176" stroke="#2B2B2B" stroke-width="1.5"/>
+  <line x1="102" y1="162" x2="126" y2="157" stroke="#2B2B2B" stroke-width="1" opacity="0.4"/>
+  <line x1="102" y1="169" x2="126" y2="164" stroke="#2B2B2B" stroke-width="1" opacity="0.4"/>
+  <line x1="154" y1="157" x2="178" y2="162" stroke="#2B2B2B" stroke-width="1" opacity="0.4"/>
+  <line x1="154" y1="164" x2="178" y2="169" stroke="#2B2B2B" stroke-width="1" opacity="0.4"/>
+
+  <path d="M98 208 Q 140 192, 182 200" fill="none" stroke="#6B8F71" stroke-width="1.5" stroke-dasharray="1,5" stroke-linecap="round"/>
+  <circle cx="98" cy="208" r="5" fill="#6B8F71"/>
+  <circle cx="182" cy="200" r="3" fill="#6B8F71"/>
+</svg>

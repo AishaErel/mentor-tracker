@@ -1,0 +1,6 @@
+   .env
+   .streamlit/secrets.toml
+   venv/
+   claude_env/
+   __pycache__/
+   *.pyc

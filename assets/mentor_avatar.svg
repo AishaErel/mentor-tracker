@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <circle cx="40" cy="40" r="38" fill="#6B8F71"/>
+  <circle cx="40" cy="34" r="13" fill="#FAF7F0"/>
+  <path d="M18 66 C18 48, 28 42, 40 42 C52 42, 62 48, 62 66 Z" fill="#FAF7F0"/>
+
+  <!-- book resting on top of head, facing the viewer -->
+  <rect x="27" y="13" width="26" height="17" rx="2" fill="#C7A552"/>
+  <line x1="40" y1="13" x2="40" y2="30" stroke="#8A6D2E" stroke-width="1"/>
+  <line x1="31" y1="19" x2="37" y2="19" stroke="#8A6D2E" stroke-width="1" opacity="0.7"/>
+  <line x1="31" y1="23" x2="37" y2="23" stroke="#8A6D2E" stroke-width="1" opacity="0.7"/>
+  <line x1="43" y1="19" x2="49" y2="19" stroke="#8A6D2E" stroke-width="1" opacity="0.7"/>
+  <line x1="43" y1="23" x2="49" y2="23" stroke="#8A6D2E" stroke-width="1" opacity="0.7"/>
+</svg>
